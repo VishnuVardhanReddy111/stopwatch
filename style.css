@@ -1,0 +1,12 @@
+.bg{
+  background-color: #55ffff;
+  padding-left: 30px;
+  border: 2px solid red;
+  margin-left: 550px;
+  margin-right: 500px;
+  margin-top: 250px;
+  border-radius: 10px;
+}
+.bg1{
+  background-color: black;
+}
